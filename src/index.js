@@ -12,6 +12,6 @@ module.exports = function() {
   console.log(temp5);
   const temp6 = "hi";
   console.log(temp6);
-  const temp7 = "hi";
-  console.log(temp7);
+  const temp8 = "hi";
+  console.log(temp8);
 };

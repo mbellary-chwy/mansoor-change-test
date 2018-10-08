@@ -1,3 +1,13 @@
+<a name="1.1.2"></a>
+## [1.1.2](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.1...v1.1.2) (2018-10-08)
+
+
+### Bug Fixes
+
+* **temp:** adding temp variable ([745bb09](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/745bb09))
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.0...v1.1.1) (2018-10-08)
 

@@ -4,7 +4,7 @@
   "description": "Changelog test",
   "main": "./src/index.js",
   "scripts": {
-    "copy:utilities": "cp -R package.json ./dist/; cp -R CHANGELOG.md ./dist/; cp -R ./src/ ./dist/src;",
+    "copy:utilities": "rm -rf ./dist; mkdir ./dist; cp -R package.json ./dist/; cp -R CHANGELOG.md ./dist/; cp -R ./src/ ./dist/src;",
     "changelog": "yarn conventional-changelog -p angular -i CHANGELOG.md -s",
     "preversion": "yarn copy:utilities",
     "version": "yarn changelog && git add CHANGELOG.md",

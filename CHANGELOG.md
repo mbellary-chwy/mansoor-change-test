@@ -1,3 +1,13 @@
+<a name="1.1.3"></a>
+## [1.1.3](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.2...v1.1.3) (2018-10-08)
+
+
+### Bug Fixes
+
+* **preversion:** adding preversion check ([8635b6b](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/8635b6b))
+
+
+
 <a name="1.1.2"></a>
 ## [1.1.2](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.1...v1.1.2) (2018-10-08)
 

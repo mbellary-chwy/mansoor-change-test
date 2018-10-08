@@ -1,0 +1,25 @@
+{
+  "name": "mansoor-change-test",
+  "version": "1.0.0",
+  "description": "Changelog test",
+  "main": "./src/index.js",
+  "scripts": {
+    "changelog": "yarn conventional-changelog -p angular -i CHANGELOG.md -s",
+    "version": "yarn changelog && git add CHANGELOG.md",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MansoorBashaBellary/mansoor-change-test.git"
+  },
+  "author": "Mansoor Basha Bellary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MansoorBashaBellary/mansoor-change-test/issues"
+  },
+  "homepage": "https://github.com/MansoorBashaBellary/mansoor-change-test#readme",
+  "devDependencies": {
+    "conventional-changelog-cli": "^1.3.21",
+    "cz-conventional-changelog": "^2.1.0"
+  }
+}

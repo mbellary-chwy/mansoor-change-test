@@ -1,3 +1,13 @@
+<a name="1.1.7"></a>
+## [1.1.7](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.6...v1.1.7) (2018-10-08)
+
+
+### Features
+
+* **index:** adding variable ([a2b0b29](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/a2b0b29))
+
+
+
 <a name="1.1.6"></a>
 ## [1.1.6](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.5...v1.1.6) (2018-10-08)
 

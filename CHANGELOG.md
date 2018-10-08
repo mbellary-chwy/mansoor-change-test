@@ -1,3 +1,14 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.0...v1.1.1) (2018-10-08)
+
+
+### Bug Fixes
+
+* **source:** adding src ([1a75d7b](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/1a75d7b))
+* **utilities:** adding utilities ([7b554da](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/7b554da))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2018-10-08)
 

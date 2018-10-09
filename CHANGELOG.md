@@ -1,3 +1,18 @@
+<a name="1.1.27"></a>
+## [1.1.27](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.26...v1.1.27) (2018-10-09)
+
+
+### Code Refactoring
+
+* **temp6:** adding temp6 ([f3fdcbe](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/f3fdcbe))
+
+
+### BREAKING CHANGES
+
+* **temp6:** adding temp6
+
+
+
 <a name="1.1.26"></a>
 ## [1.1.26](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.25...v1.1.26) (2018-10-09)
 

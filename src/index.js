@@ -4,4 +4,6 @@ module.exports = function() {
   console.log(temp);
   const temp2 = "hi";
   console.log(temp2);
+  const temp3 = "hi";
+  console.log(temp3);
 };

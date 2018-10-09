@@ -18,6 +18,6 @@ module.exports = function() {
   console.log(temp10);
   const temp13 = "hi";
   console.log(temp13);
-  const temp15 = "hi";
-  console.log(temp15);
+  const temp16 = "hi";
+  console.log(temp16);
 };

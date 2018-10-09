@@ -1,3 +1,13 @@
+<a name="1.1.19"></a>
+## [1.1.19](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.18...v1.1.19) (2018-10-09)
+
+
+### Features
+
+* **temp16:** adding new variable temp16 ([7ed3fb7](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/7ed3fb7))
+
+
+
 <a name="1.1.18"></a>
 ## [1.1.18](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.17...v1.1.18) (2018-10-09)
 

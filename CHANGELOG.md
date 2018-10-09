@@ -1,3 +1,18 @@
+<a name="1.1.24"></a>
+## [1.1.24](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.23...v1.1.24) (2018-10-09)
+
+
+### Code Refactoring
+
+* **temp45:** updating temp45 ([e9acb52](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/e9acb52))
+
+
+### BREAKING CHANGES
+
+* **temp45:** the tenp45 component
+
+
+
 <a name="1.1.23"></a>
 ## [1.1.23](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.22...v1.1.23) (2018-10-09)
 

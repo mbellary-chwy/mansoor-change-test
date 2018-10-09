@@ -1,3 +1,8 @@
+<a name="1.1.16"></a>
+## [1.1.16](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.15...v1.1.16) (2018-10-09)
+
+
+
 <a name="1.1.12"></a>
 ## [1.1.12](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.1.11...v1.1.12) (2018-10-08)
 

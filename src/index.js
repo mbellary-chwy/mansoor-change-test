@@ -10,6 +10,6 @@ module.exports = function() {
   console.log(temp4);
   const temp5 = "hi";
   console.log(temp5);
-  const temp6 = "hi";
+  const temp6 = "hi11";
   console.log(temp6);
 };

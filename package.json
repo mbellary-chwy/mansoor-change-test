@@ -9,6 +9,9 @@
     "version": "yarn changelog && git add CHANGELOG.md",
     "postversion": "git push && git push --tags"
   },
+  "files": [
+    "src/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MansoorBashaBellary/mansoor-change-test.git"

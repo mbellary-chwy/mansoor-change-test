@@ -1,3 +1,14 @@
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v2.1.0...v2.2.0) (2021-08-11)
+
+
+### Features
+
+* update ([43973d5](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/43973d5))
+* update ([65557d0](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/65557d0))
+
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v2.0.0...v2.1.0) (2021-08-11)
 

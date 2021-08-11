@@ -4,3 +4,5 @@
 Jenkinsfile
 .eslintrc.js
 *.json
+*.xml
+yarn.lock

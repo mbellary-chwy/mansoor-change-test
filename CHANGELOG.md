@@ -1,3 +1,13 @@
+<a name="1.6.0"></a>
+# [1.6.0](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.5.0...v1.6.0) (2021-08-11)
+
+
+### Features
+
+* update ([4f890d0](https://github.com/MansoorBashaBellary/mansoor-change-test/commit/4f890d0))
+
+
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/MansoorBashaBellary/mansoor-change-test/compare/v1.4.0...v1.5.0) (2021-08-11)
 

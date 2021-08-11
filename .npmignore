@@ -1,1 +1,6 @@
 !**/web_modules
+*.bash
+*.config.js
+Jenkinsfile
+.eslintrc.js
+*.json
